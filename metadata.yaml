@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
 description: Out of Mulberry Street - Stories of tenement life in New York City -
   The Original Classic Edition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38419#Out-of-Mulberry-Street--Stories-of-Tenement-life-in-New-York-City
 gutenberg_issued: '2011-12-27'
 gutenberg_type: Text
 identifiers:
